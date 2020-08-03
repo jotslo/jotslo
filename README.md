@@ -14,7 +14,7 @@ contact_info = {
 }
 
 for platform in contact_info:
-    print(platform, contact_info[platform])
+    print(f"{platform}: {contact_info[platform]}")
 ```
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshSCF&layout=compact)](https://github.com/JoshSCF/github-readme-stats)
