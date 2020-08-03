@@ -5,12 +5,15 @@
 - **E-mail**: [me@joshl.io](mailto:me@joshl.io)-->
 
 ```python
-contact = {
+contact_info = {
     "GitHub": "JoshSCF",
     "Twitter": "scfJosh",
     "Discord": "Josh#5318",
     "LinkedIn": "scfJosh"
 }
+
+for platform in contact_info:
+    print(platform, contact_info[platform])
 ```
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshSCF&layout=compact)](https://github.com/JoshSCF/github-readme-stats)
