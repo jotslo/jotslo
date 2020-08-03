@@ -1,14 +1,14 @@
 ### Josh ([JoshL.io](https://JoshL.io))
 ________________
 
-
-
-[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=JoshSCF&repo=roblox-pacman)](https://github.com/JoshSCF/roblox-pacman)
-
-<!--<a href="https://github.com/JoshSCF">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoshSCF&show_icons=true" alt="JoshSCF's GitHub Stats" />
-</a>-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshSCF&layout=compact)](https://github.com/JoshSCF/github-readme-stats)
+
+[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=ScriptersCF&repo=mr-script-bot)](https://github.com/ScriptersCF/mr-script-bot)
+[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=ScriptersCF&repo=custom_donations)](https://github.com/ScriptersCF/custom_donations)
+[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=JoshSCF&repo=discord-auto-translate)](https://github.com/JoshSCF/discord-auto-translate)
+[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=JoshSCF&repo=mkwii-voice-chat)](https://github.com/JoshSCF/mkwii-voice-chat)
+[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=JoshSCF&repo=discord-auto-slowmode)](https://github.com/JoshSCF/discord-auto-slowmode)
+[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=JoshSCF&repo=roblox-pacman)](https://github.com/JoshSCF/roblox-pacman)
 
 <!--
 **JoshSCF/JoshSCF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
