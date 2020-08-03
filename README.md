@@ -6,6 +6,7 @@
 
 ```python
 contact_info = {
+    "Email": "me@joshl.io",
     "GitHub": "JoshSCF",
     "Twitter": "scfJosh",
     "Discord": "Josh#5318",
