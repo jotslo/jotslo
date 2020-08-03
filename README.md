@@ -1,6 +1,13 @@
 ### Josh ([JoshL.io](https://JoshL.io))
-#### 18 y/o dev
+________________
 
+
+
+[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=JoshSCF&repo=roblox-pacman)](https://github.com/JoshSCF/roblox-pacman)
+
+<!--<a href="https://github.com/JoshSCF">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoshSCF&show_icons=true" alt="JoshSCF's GitHub Stats" />
+</a>-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshSCF&layout=compact)](https://github.com/JoshSCF/github-readme-stats)
 
 <!--
