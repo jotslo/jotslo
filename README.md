@@ -4,6 +4,7 @@
 - **Discord**: [Josh#5318](https://discord.com/invite/tZ7wdnT)
 - **E-mail**: [me@joshl.io](mailto:me@joshl.io)-->
 
+<!--
 ```python
 contact_info = {
     "E-mail": "me@joshl.io",
@@ -15,7 +16,7 @@ contact_info = {
 
 for platform in contact_info:
     print(f"{platform}: {contact_info[platform]}")
-```
+```-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iksp5bwu5twc1qsczc58opakk&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
 
