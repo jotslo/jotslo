@@ -18,7 +18,7 @@ for platform in contact_info:
     print(f"{platform}: {contact_info[platform]}")
 ```-->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iksp5bwu5twc1qsczc58opakk&cover_image=false)](https://spotify.com)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iksp5bwu5twc1qsczc58opakk&cover_image=false)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshSCF&layout=compact)](https://github.com/JoshSCF/github-readme-stats)
 -->
