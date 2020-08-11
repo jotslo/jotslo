@@ -17,10 +17,10 @@ contact_info = {
 for platform in contact_info:
     print(f"{platform}: {contact_info[platform]}")
 ```-->
+#### Owner of ScriptersCF
+<a href="https://discordapp.com/invite/N9GRpSC"><img src="https://img.shields.io/discord/306153640023031820.svg?logo=discord&style=for-the-badge" height="30"></a>
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iksp5bwu5twc1qsczc58opakk&cover_image=false)
-
-<a href="https://discordapp.com/invite/N9GRpSC"><img src="https://img.shields.io/discord/306153640023031820.svg?logo=discord&style=for-the-badge" height="30"></a>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshSCF&layout=compact)](https://github.com/JoshSCF/github-readme-stats)
 -->
