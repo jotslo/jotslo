@@ -15,7 +15,7 @@ for platform in contact_info:
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iksp5bwu5twc1qsczc58opakk&cover_image=false)
 -->
-<table>
+<!--<table>
   <tr>
     <td style="padding: 0; width=50%">
         <img src="https://github-readme-stats.vercel.app/api/?username=jotslo&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true"/>
@@ -24,4 +24,4 @@ for platform in contact_info:
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotslo&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true"/>
     </td>
   </tr>
-</table>
+</table>-->
